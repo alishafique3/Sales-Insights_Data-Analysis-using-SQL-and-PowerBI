@@ -9,6 +9,10 @@ It is a structured dataset in SQL format. Following data preprocessing is made
 3. Removed outliers (–1 and 0) from sales transaction - sales amount 
 4. Normalized all sales_amount in the same currency
 
+```sql   
+SELECT * FROM sales.transactions order by sales.transactions.sales_amount desc limit 15;
+```
+
 ## Data Visualization
 The dashboard is made in Microsoft PowerBI to get Sales insight. This dashboard can be deployed on websites and mobile devices. 
 

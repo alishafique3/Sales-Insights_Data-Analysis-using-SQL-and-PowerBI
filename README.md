@@ -26,4 +26,4 @@ The following useful information is extracted from the dashboard.
 ![PowerBIFile_002](https://github.com/alishafique3/Sales-Insights_Data-Analysis-using-SQL-and-PowerBI/assets/17300597/4b8024e6-acd1-4b4b-97ac-7cb45ece820c)
 
 ## Acknowledgement
-I would like to acknowledge the YouTube channel **codebasics** by Dhaval Patel for guidance on this project.
+I would like to acknowledge the YouTube channel **codebasics** and website https://codebasics.io/ by Dhaval Patel for guidance on this project.

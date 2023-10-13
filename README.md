@@ -10,7 +10,7 @@ It is a structured dataset in SQL format. Following data preprocessing is made
 4. Normalized all sales_amount in the same currency
 
 ```sql   
-SELECT * FROM sales.transactions order by sales.transactions.sales_amount desc limit 15;
+SELECT * FROM sales.transactions order by sales.transactions.sales_amount ASC limit 15;
 ```
 
 ## Data Visualization

@@ -4,7 +4,7 @@ AtliQ Computer Hardware and peripherals manufacturer is facing issues with sales
 
 ## Data Processing:
 It is a structured dataset in SQL format. Following data preprocessing is made
-1. Make Data Model – Star Schema 
+1. Completed Data Model – Star Schema 
 2. Removed rows with incomplete data from the sales market 
 3. Removed outliers (–1 and 0) from sales transaction - sales amount 
 4. Normalized all sales_amount in the same currency

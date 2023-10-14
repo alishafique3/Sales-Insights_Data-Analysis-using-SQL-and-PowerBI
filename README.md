@@ -24,6 +24,9 @@ The following useful information is extracted from the dashboard.
 5. Overall the Revenue trend is declining with time.
 
 ## Dashboard View
+### Tableau Dashboard
+![tableauslides](https://github.com/alishafique3/Sales-Insights_Data-Analysis-using-SQL-and-PowerBI/assets/17300597/b2b9ec5f-e5a7-4871-8b4c-ee1f79a9f3d3)
+
 ### First Page:
 ![PowerBIFile_001](https://github.com/alishafique3/Sales-Insights_Data-Analysis-using-SQL-and-PowerBI/assets/17300597/a6cca4de-1cb7-4caa-9f40-3342cf8ae51a)
 ### Second Page:

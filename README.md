@@ -25,7 +25,7 @@ The following useful information is extracted from the dashboard.
 
 ## Dashboard View
 ### Tableau Dashboard
-![tableauslides](https://github.com/alishafique3/Sales-Insights_Data-Analysis-using-SQL-and-PowerBI/assets/17300597/b2b9ec5f-e5a7-4871-8b4c-ee1f79a9f3d3)
+![tableauslides](https://github.com/alishafique3/Sales-Insights_Data-Analysis-using-SQL-and-PowerBI/assets/17300597/b99430bc-589c-41ca-920e-c940c03278bb)
 
 ### PowerBI Dashboard:
 ![PowerBIFile_001](https://github.com/alishafique3/Sales-Insights_Data-Analysis-using-SQL-and-PowerBI/assets/17300597/a6cca4de-1cb7-4caa-9f40-3342cf8ae51a)

@@ -10,7 +10,7 @@ It is a structured dataset in SQL format. Following data preprocessing is made
 4. Normalized all sales_amount in the same currency
 
 ```sql   
--- see table in ascending order
+-- To see table in ascending order
 select * from `sales`.`transactions` order by `sales`.`transactions`.`sales_amount` ASC
 
 

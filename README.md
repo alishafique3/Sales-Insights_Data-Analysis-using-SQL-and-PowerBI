@@ -11,15 +11,15 @@ It is a structured dataset in SQL format. Following data preprocessing is made
 
 ```sql   
 -- see table in ascending order
-select * from sales.transactions order by sales.transactions.sales_amount ASC
+select * from `sales`.`transactions` order by `sales`.`transactions`.`sales_amount` ASC
 
 
 -- to see distinct value
-select distinct(sales.transactions.currency) from sales.transactions
+select distinct(`sales`.`transactions`.`currency`) from `sales`.`transactions`
 
 
 -- to delete null or empty values
-DELETE FROM sales.markets WHERE sales.markets.zone='' OR sales.markets.zone IS NULL;
+DELETE FROM `sales`.`markets` WHERE `sales`.`markets`.`zone`='' OR `sales`.`markets`.`zone` IS NULL;
 
 
 -- to delete column

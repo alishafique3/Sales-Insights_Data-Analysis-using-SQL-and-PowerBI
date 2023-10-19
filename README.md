@@ -11,6 +11,8 @@ It is a structured dataset in SQL format. Following data preprocessing is made
 
 ```sql   
 SELECT * FROM sales.transactions order by sales.transactions.sales_amount ASC limit 15;
+
+DELETE FROM sales.markets WHERE sales.markets.zone='' OR sales.markets.zone IS NULL;
 ```
 
 ## Data Visualization

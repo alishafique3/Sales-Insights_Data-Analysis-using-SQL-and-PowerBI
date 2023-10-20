@@ -40,7 +40,11 @@ SET `Norm_sales_amount` =
 
 ```
 
-## Data Visualization
+## Data Modeling: Star Schema
+<img width="402" alt="star scheme" src="https://github.com/alishafique3/Sales-Insights_Data-Analysis-using-SQL-and-Tableau/assets/17300597/c898d8ff-518d-44c8-9993-241f408ab090">
+
+
+## Data Dashboard
 The dashboard is made in Tableau and Microsoft PowerBI to get Sales insight. This dashboard can be deployed on websites and mobile devices. 
 
 The following useful information is extracted from the dashboard.

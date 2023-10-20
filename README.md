@@ -44,7 +44,7 @@ SET `Norm_sales_amount` =
 <img width="402" alt="star scheme" src="https://github.com/alishafique3/Sales-Insights_Data-Analysis-using-SQL-and-Tableau/assets/17300597/c898d8ff-518d-44c8-9993-241f408ab090">
 
 
-## Data Dashboard
+## Dashboard
 The dashboard is made in Tableau and Microsoft PowerBI to get Sales insight. This dashboard can be deployed on websites and mobile devices. 
 
 The following useful information is extracted from the dashboard.
@@ -54,7 +54,6 @@ The following useful information is extracted from the dashboard.
 4. Only one customer is generating 46% of Revenue for the company.
 5. Overall the Revenue trend is declining with time.
 
-## Dashboard View
 ### Tableau Dashboard
 ![tableauslides](https://github.com/alishafique3/Sales-Insights_Data-Analysis-using-SQL-and-PowerBI/assets/17300597/b99430bc-589c-41ca-920e-c940c03278bb)
 
